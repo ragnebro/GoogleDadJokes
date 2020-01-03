@@ -1,2 +1,0 @@
-# GoogleDadJokes
-Created with CodeSandbox
